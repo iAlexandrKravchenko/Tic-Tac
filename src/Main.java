@@ -1,4 +1,4 @@
-package tictactoe;
+
 import java.util.Scanner;
 
 public class Main {
@@ -35,7 +35,7 @@ public class Main {
         int cord2;
         int cord3;
         int cord4;
-
+// peremennye
         boolean xWin = false;
         boolean oWin = false;
         boolean hasNull = false;
