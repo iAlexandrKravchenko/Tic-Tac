@@ -120,7 +120,7 @@ public class Main {
 
 
 
-
+// tut mozno vse udalit
         int countO = 0;
         int countX = 0;
         for (char z : ch){
